@@ -1,0 +1,23 @@
+# Jupyter Notebook specific
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyd
+*.pyo
+
+# VS Code specific
+.vscode/
+.history/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+*.env
