@@ -5,7 +5,7 @@
 ## 🎥 Project Demonstration
 
 Watch our capstone project demonstration video here: 
-🔗 [Watch the Demo](YOUR_YOUTUBE_LINK_HERE)
+🔗 [Watch the Demo](https://www.youtube.com/watch?v=ygdDWbHltL8)
 
 ---
 
@@ -115,7 +115,7 @@ These findings can empower:
 
 ## 📁 Repository Contents
 
-- `Capstone2.ipynb` – Main Jupyter Notebook with complete analysis, modeling, and visualizations.
+- `Capstone_Project_Student_Performance.ipynb` – Main Jupyter Notebook with complete analysis, modeling, and visualizations.
 - `README.md` – Project summary and documentation.
 
 ---
